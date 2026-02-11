@@ -12,7 +12,10 @@ I'm Ratih, an AI and Data Enthusiast. I'm passionate about building intelligent,
 - ♨ I'm a HUGE coffee addict, americano is my on the go, especially arabica beans ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 - 🎮 I love playing games, like a LOT
 
-Let's connect!
+<h3 align="left">
+  Let's connect!
+  <img src="https://media.tenor.com/QMvza0dVXGMAAAAi/cat.gif" height="30px">
+</h3>
 <p align="left">
   <a href="https://linkedin.com/in/fwoggo505">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
