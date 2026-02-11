@@ -1,7 +1,8 @@
 Hey there, peeps! 
 
 I am Ratih Ayudia Nurmala
-<img src="https://media.tenor.com/your-gif-link.gif" width="200" alt="Koupen-chan GIF"/>
+
+![Koupen-chan](https://media.tenor.com/your-gif-link.gif)
 
 
 <!--
