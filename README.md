@@ -1,6 +1,7 @@
 <h3 align="left">
   Hello there, Peeps! 
   <img src="https://media.tenor.com/NQoWgQtdXCsAAAAi/pika-hi.gif" height="30px">
+  <img src="https://media.tenor.com/QMvza0dVXGMAAAAi/cat.gif" height="30px">
 </h3>
 
 I'm Ratih, an AI and Data Enthusiast. I'm passionate about building intelligent, data-driven systems that solve real world problems. With a background in physics and machine learning, I focus on developing scalable and impactful AI solutions. I'm also interested in following business and technology. 
@@ -9,12 +10,11 @@ I'm Ratih, an AI and Data Enthusiast. I'm passionate about building intelligent,
 
 - 🎓 I took Physics major in college with concentration in computational and theoretical physics
 - 🐍 I mostly use python and SQL, hand-to-hand and everything in between!
-- ♨ I'm a HUGE coffee addict, americano is my on the go, especially arabica beans ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+- ♨ I'm a HUGE coffee addict, Americano is my on the go, especially arabica beans ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 - 🎮 I love playing games, like a LOT
 
 <h3 align="left">
   Let's connect!
-  <img src="https://media.tenor.com/QMvza0dVXGMAAAAi/cat.gif" height="30px">
 </h3>
 <p align="left">
   <a href="https://linkedin.com/in/fwoggo505">
