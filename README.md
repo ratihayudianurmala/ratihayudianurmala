@@ -9,8 +9,8 @@ I'm Ratih, an AI and Data Enthusiast. I'm passionate about building intelligent,
 
 - 🎓 I took Physics major in college with concentration in computational and theoretical physics
 - 🐍 I mostly use python and SQL, hand-to-hand and everything in between!
-- ♨ I'm a HUGE coffee addict, Americano is my on the go, especially arabica beans ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
-- 🎮 I love playing games, like a LOT
+- ♨ I'm a coffee addict, Americano is my on the go, especially arabica beans ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+- 🎮 I love playing video games, like a LOT
 
 <h3 align="left">
   Let's connect!
